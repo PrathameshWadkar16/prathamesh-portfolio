@@ -9,7 +9,6 @@ import {
 
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
 
@@ -29,26 +28,20 @@ export const sidebarItems = [
   { name: "Projects", icon: FolderKanban },
   { name: "Work", icon: BriefcaseBusiness },
 ];
-
 export const socialLinks = [
   {
     name: "GitHub",
-    href: "https://github.com/",
+    href: "https://github.com/PrathameshWadkar16",
     icon: FaGithub,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/prathamesh-wadkar-a91001229",
     icon: FaLinkedinIn,
   },
   {
-    name: "Instagram",
-    href: "https://www.instagram.com/",
-    icon: FaInstagram,
-  },
-  {
     name: "Email",
-    href: "mailto:your-email@example.com",
+    href: "mailto:prathmeshwadkar03@gmail.com",
     icon: Mail,
   },
 ];
@@ -82,8 +75,8 @@ export const projects = [
     status: "Frontend Project",
     color: "red",
     image: "",
-    liveUrl: "",
-    githubUrl: "",
+    liveUrl: "https://bloodline-livid.vercel.app/",
+    githubUrl: "https://github.com/PrathameshWadkar16/bloodline",
     featured: true,
   },
   {
@@ -98,8 +91,8 @@ export const projects = [
     status: "In Development",
     color: "green",
     image: "",
-    liveUrl: "",
-    githubUrl: "",
+    liveUrl: "https://sonai-agro-farm.vercel.app/",
+    githubUrl: "https://github.com/PrathameshWadkar16/sonai-agro-farm",
     featured: true,
   },
   {

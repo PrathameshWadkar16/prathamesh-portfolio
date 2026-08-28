@@ -2,25 +2,18 @@ import { Code2, Heart } from "lucide-react";
 
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
-
 const footerLinks = [
   {
     name: "GitHub",
-    href: "https://github.com/",
+    href: "https://github.com/PrathameshWadkar16",
     icon: FaGithub,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/prathamesh-wadkar-a91001229",
     icon: FaLinkedinIn,
-  },
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/",
-    icon: FaInstagram,
   },
 ];
 

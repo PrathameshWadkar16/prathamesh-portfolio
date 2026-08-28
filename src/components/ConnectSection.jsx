@@ -9,7 +9,6 @@ import {
 
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
 } from "react-icons/fa";
 
@@ -53,20 +52,14 @@ const contactLinks = [
   {
     name: "LinkedIn",
     label: "Connect professionally",
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/prathamesh-wadkar-a91001229",
     icon: FaLinkedinIn,
   },
   {
     name: "GitHub",
     label: "Explore source code",
-    href: "https://github.com/",
+    href: "https://github.com/PrathameshWadkar16",
     icon: FaGithub,
-  },
-  {
-    name: "Instagram",
-    label: "Follow my journey",
-    href: "https://www.instagram.com/",
-    icon: FaInstagram,
   },
 ];
 
